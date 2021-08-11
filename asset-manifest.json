@@ -1,0 +1,39 @@
+{
+  "files": {
+    "static/js/0.b4ba9cd9.chunk.js": "/static/js/0.b4ba9cd9.chunk.js",
+    "main.css": "/static/css/main.ffcc6ad9.chunk.css",
+    "main.js": "/static/js/main.7b883175.chunk.js",
+    "runtime-main.js": "/static/js/runtime-main.dafadb8e.js",
+    "static/js/3.e023484f.chunk.js": "/static/js/3.e023484f.chunk.js",
+    "static/js/4.2768c9d3.chunk.js": "/static/js/4.2768c9d3.chunk.js",
+    "static/js/5.39f5286f.chunk.js": "/static/js/5.39f5286f.chunk.js",
+    "static/js/6.fb179799.chunk.js": "/static/js/6.fb179799.chunk.js",
+    "static/js/7.7e2b39ed.chunk.js": "/static/js/7.7e2b39ed.chunk.js",
+    "static/js/8.c3af39ec.chunk.js": "/static/js/8.c3af39ec.chunk.js",
+    "static/js/9.f7248ccd.chunk.js": "/static/js/9.f7248ccd.chunk.js",
+    "static/js/10.d6a7cba1.chunk.js": "/static/js/10.d6a7cba1.chunk.js",
+    "static/js/11.fcf8e4d4.chunk.js": "/static/js/11.fcf8e4d4.chunk.js",
+    "index.html": "/index.html",
+    "precache-manifest.f7784a1c41afd32ff00c3f5e3fa5d491.js": "/precache-manifest.f7784a1c41afd32ff00c3f5e3fa5d491.js",
+    "service-worker.js": "/service-worker.js",
+    "static/js/3.e023484f.chunk.js.LICENSE.txt": "/static/js/3.e023484f.chunk.js.LICENSE.txt",
+    "static/js/5.39f5286f.chunk.js.LICENSE.txt": "/static/js/5.39f5286f.chunk.js.LICENSE.txt",
+    "static/js/6.fb179799.chunk.js.LICENSE.txt": "/static/js/6.fb179799.chunk.js.LICENSE.txt",
+    "static/js/7.7e2b39ed.chunk.js.LICENSE.txt": "/static/js/7.7e2b39ed.chunk.js.LICENSE.txt",
+    "static/js/8.c3af39ec.chunk.js.LICENSE.txt": "/static/js/8.c3af39ec.chunk.js.LICENSE.txt",
+    "static/media/DAI.png": "/static/media/DAI.17db7fc2.png",
+    "static/media/USDC.png": "/static/media/USDC.c76b33ca.png",
+    "static/media/USDT.png": "/static/media/USDT.839a0f0d.png",
+    "static/media/basis-bond-logo.svg": "/static/media/basis-bond-logo.80fb5592.svg",
+    "static/media/cash.png": "/static/media/cash.6678dbb4.png",
+    "static/media/sUSD.png": "/static/media/sUSD.f8fec857.png",
+    "static/media/share.png": "/static/media/share.a1671c75.png",
+    "static/media/ycrv.png": "/static/media/ycrv.88ae1ab3.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.dafadb8e.js",
+    "static/js/3.e023484f.chunk.js",
+    "static/css/main.ffcc6ad9.chunk.css",
+    "static/js/main.7b883175.chunk.js"
+  ]
+}
